@@ -1,1 +1,1 @@
-# positinFinder
+# Position Finder
